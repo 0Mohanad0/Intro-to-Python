@@ -1,0 +1,4 @@
+print('hello world')
+age = input("How old are you?")
+if age == '17':
+  print( 'alomst there!' )
